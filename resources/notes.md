@@ -28,3 +28,5 @@
 
 - `uv run python manage.py runserver`: Inicia o servidor de desenvolvimento local do Django para rodar o projeto.
 
+- `uv run python manage.py help`:
+
